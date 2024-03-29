@@ -44,5 +44,5 @@ java -cp target/classes com.example.WebClient
 
 ## Project in Action
 
-![Server and Client Screenshot](assets/output.png)
+![Server and Client Screenshot](demo/assets/output.png)
 
